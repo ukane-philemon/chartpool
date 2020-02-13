@@ -186,6 +186,18 @@ blockquote::before {
     left: 10px;
     top: 15px;
 }
+.lastbtn {
+width: auto;
+	height: auto;
+	background-color: #09174B;
+	color: #E5E5E5;
+	margin: auto;
+	border-radius: 30px;
+	padding: 10px;
+	outline: 1px gray;
+	letter-spacing: 2px;
+	line-height: 15px;
+}
 
 .round {
 	height: 50px;
@@ -214,10 +226,8 @@ blockquote::before {
 .lastcon {
 	justify-content: center;
 	margin: 2.4em;
-	padding: 1.2em;
-
+	
 }
-
 .lastcon h4  {
 	text-align: center;
 	color: #09174B;

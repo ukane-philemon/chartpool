@@ -177,6 +177,15 @@ background: linear-gradient(270.83deg, #09174B 3.36%, #A702C2 95.34%);
 	padding-right: 40px;
 	padding-top: 20px;
 }
+blockquote::before {
+	font-family: Arial;
+    content: "\201C";
+    color: #000000;
+    font-size: 4.5em;
+    position: absolute;
+    left: 10px;
+    top: 15px;
+}
 
 .round {
 	height: 50px;

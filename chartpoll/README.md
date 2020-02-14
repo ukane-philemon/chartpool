@@ -1,2 +1,2 @@
 # chartpool.static.github.io
-just static
+just static :smilely

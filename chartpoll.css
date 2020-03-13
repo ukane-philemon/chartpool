@@ -1,25 +1,32 @@
 * {
 	box-sizing: border-box;
 }
+
 body {
 	margin: 0px;
 	padding: 0px;
 	font-family: 'Ubuntu', sans-serif;
 }
+
 ul {
 	list-style: none;
 }
 
-    p, button, a {
-		font-size: 1.1em;
-		line-height: 1.5em;
-		text-decoration: none;
+p, button, a {
+		font-size: 1.2rem;
+		line-height: 2rem;
+		text-decoration:underline;
 	}
-.span1 {
-	margin-left: 1.5em;
+
+.nav-name {
+	font-size: 1.5rem;
+	color: blue;
+	text-decoration: none;
+
 }
 .navbar-toggler {
 	width: 2em;
+	margin: 0;
 	padding: 0;
 }
 .navbar-toggler, .nav-item, .navbar-brand {
@@ -31,6 +38,29 @@ ul {
 	background-color: #E5E5E5;
 	margin: 0;
 	
+}
+.btn1 {
+   
+   border-radius: 29px;
+   height: 33px;
+   line-height: 33px;
+   color: #FFFFFF;
+   width: 139px;
+   font-size: 32px;
+   font-weight: 500;
+   padding: 11px;
+   background-color: #01346E;
+   border: solid #337FED 0px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn1:hover {
+	
+   background: #1E62D0;
+   text-decoration: none;
 }
 /*
 .square {

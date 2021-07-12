@@ -1,0 +1,565 @@
+.ui.secondary.menu .item {
+	padding: 5px;
+	color: #09174B;
+
+}
+
+.ui.grid>.row>.column {
+	margin: 32px;
+
+}
+
+.ui.secondary.menu a.item:hover {
+	background: none;
+}
+
+.ui.secondary.menu {
+	padding: 0.9rem 2.3rem;
+	background-color: #FFFFFF;
+}
+
+button.cpbutton {
+	font-family: Ubuntu;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 21px;
+	color: #FFFFFF;
+	margin: 15px 0px;
+	background: #09174B;
+	color: #FFFFFF;
+	border: 0px;
+	opacity: 0.8;
+	border-radius: 2rem;
+	padding: 8px 16px;
+}
+
+.menu button {
+	margin: 15px 0px;
+	width: 100px;
+}
+
+.lastbtn button {
+	width: 153px;
+}
+
+@media only screen and (max-width: 767px) {
+
+	ol,
+	ul {
+		padding-left: 1rem;
+	}
+}
+
+.lastrow .col {
+	margin-bottom: 10px;
+}
+
+
+
+.header {
+	font-family: Ubuntu;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	line-height: 28px;
+
+}
+
+.cpcontainer {
+	text-align: center;
+}
+
+.cpcontainer h5 {
+	font-family: Ubuntu;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	line-height: 37px;
+	color: #09174B;
+
+}
+
+.cpseccontainer h4 {
+	font-family: Ubuntu;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	line-height: 37px;
+	color: #09174B;
+	margin-top: 47px;
+	text-align: center;
+}
+
+.cpseccontainer {
+	margin: 3rem auto 2rem;
+
+}
+
+.row {
+	margin: 0;
+}
+
+ul {
+	list-style: none;
+}
+
+.cpcontainer p {
+	font-family: Ubuntu;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 26px;
+	line-height: 41px;
+	text-align: center;
+	margin: 32px 0px;
+	color: #686868;
+
+}
+
+.cpcolumn {
+	background: linear-gradient(270.32deg, #09174B 3.36%, #A702C2 95.34%);
+	padding: 20px 60px;
+}
+
+.centertext h3 {
+	font-family: Ubuntu;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	line-height: 46px;
+	color: #FFFFFF;
+
+}
+
+
+.centertext p {
+	font-family: Ubuntu;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 21px;
+	margin-top: 16px;
+	width: auto;
+
+	color: #FFFFFF;
+}
+
+.container .cpbtn {
+
+	height: 34px;
+	background: #EEEEEE;
+	border-radius: 16px;
+	padding: 8px 16px;
+	border: 0px;
+	margin: 6px;
+
+	color: #464646;
+	font-size: 16px;
+	line-height: 18px;
+
+}
+
+body {
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Ubuntu', sans-serif;
+	background-color: rgb(255, 255, 255);
+	overflow-x: hidden;
+}
+
+.lastrow li {
+	font-family: Ubuntu;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	line-height: 21px;
+	color: #C4C4C4;
+
+}
+
+
+
+.btin1 {
+	border-radius: 30px;
+	height: 42px;
+	color: #FFFFFF;
+	width: 110px;
+	font-size: 20px;
+	background-color: #01346E;
+	border: solid #337FED 0px;
+	text-decoration: none;
+	display: inline-block;
+	text-align: center;
+
+}
+
+
+.first-word-section {
+	padding: 100px 50px 40px 50px;
+	background-color: rgb(9, 9, 112);
+	line-height: 30px;
+	color: #FFFFFF;
+
+}
+
+.first-word-section h5 {
+	font-weight: bold;
+	font-size: 30px;
+	line-height: 40px;
+
+}
+
+.first-img {
+	width: 110%;
+	height: 108%;
+	object-fit: fill;
+	position: absolute;
+	top: -10px;
+	right: 5px;
+	padding: 0;
+
+
+
+}
+
+
+.img-sec {
+	padding: 0;
+}
+
+.btn1 {
+	width: 88px;
+	height: 34px;
+	left: 1304px;
+	top: 34px;
+
+	background: #09174B;
+	border-radius: 16px;
+	color: #E5E5E5;
+
+	margin: 10px;
+	border: 1px solid#FFFF;
+	border-radius: 44px;
+	padding: 10px;
+	line-height: 15px;
+}
+
+.btin:hover {
+	background-color: #E5E5E5;
+	color: #09174B;
+}
+
+
+.design {
+	color: #E5E5E5;
+	background: linear-gradient(270.83deg, #09174B 3.36%, #A702C2 95.34%);
+}
+
+
+.imgmajor {
+	width: 100%;
+	height: 100%;
+	object-fit: fill;
+
+}
+
+.last-container {
+	margin: 2.4rem auto 2.4rem auto;
+}
+
+.last-container h4 {
+	text-align: center;
+	color: #09174B;
+	font-size: 2.2em;
+}
+
+.cpseccontainer .grid {
+	margin-top: 32px;
+	margin-bottom: 32px;
+}
+
+.box {
+	background-color: #EEEEEE;
+	color: #464646;
+	padding: 30px 20px 20px 30px;
+	height: auto;
+}
+
+.box p {
+	text-align: left;
+	padding: 16px 5px 0px;
+	font-family: Ubuntu;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 18px;
+	line-height: 21px;
+	color: #464646;
+}
+
+.ui.grid>.column:not(.row) {
+	padding: 14px 12px;
+}
+
+.lastrow {
+	background-color: black;
+	color: #E5E5E5;
+	padding-bottom: 92px;
+	padding-left: 80px;
+	padding-right: 98px;
+	padding-top: 37px;
+}
+
+.lastbtn {
+	text-align: center;
+	margin-bottom: 32px;
+
+}
+
+.text-center {
+	margin-top: 0.8em;
+}
+
+.round {
+	height: 40px;
+	width: 40px;
+	border-radius: 50%;
+
+}
+
+.media {
+	display: inline-block;
+	margin: 0;
+	padding: 0px 0px 0px 10px;
+}
+
+.media li {
+	display: inline-block;
+	margin-right: 10px;
+	color: #464646;
+	font-family: Ubuntu;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 21px;
+}
+
+.media li:last-child {
+	color: #686868;
+}
+
+.bi {
+	color: rgb(1, 10, 134);
+}
+
+.cplast {
+	color: #E5E5E5;
+	text-decoration: none;
+	font-size: 1.5em;
+	margin-top: 2px;
+}
+
+.cplast a:hover {
+	color: #09174B;
+}
+
+.logo {
+	margin: 0px 9px;
+}
+
+.footicon {
+	margin: 0;
+	padding: 0;
+}
+
+.footicon li {
+	display: inline-block;
+	margin: 0;
+
+}
+
+.nav-item {
+	font-family: Ubuntu;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+
+}
+
+/* Login Page Css */
+.cpformcontainer, .cpform-container>.row {
+	width: 100%;
+	height: 100%;
+
+}
+.image-container {
+	padding: 0px;
+}
+
+.image-container>img {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	background-blend-mode: lighten;
+
+}
+
+.form-container {
+	padding-left: 82px;
+	padding-bottom: 90px;
+	padding-top: 90px;
+	
+}
+
+.chartpoll-logo {
+	    width: 40px;
+		margin: 0px;
+		display: inline-block;
+		vertical-align: middle;
+}
+
+.form-container>.col>.header {
+	font-size: 30px;
+	color: #09174B
+}
+
+.form-container>.col p {
+	font-family: Ubuntu;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 30px;
+	color: #686868;
+}
+
+.form-container>.col>.wrap {
+	text-align: center;
+	width: fit-content ;
+}
+
+.form-container>.col button{
+	border: 1px solid #1976D2;
+	box-sizing: border-box;
+	border-radius: 8px;
+	width: 368px;
+	font-family: Ubuntu;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 16px;
+	color: #1976D2;
+	padding:0.8rem 1rem;
+	background: #ffffff;
+	text-decoration: none;
+	text-align: left;
+	margin: 10px  0px;
+	
+
+}
+
+.form-container>.col button span, 
+.form-container>.col span {
+	display: inline-block;
+	width: 80%;
+	text-align: center;
+
+	
+	
+} 
+
+.form-container>.col a{
+	font-family: Ubuntu;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 30px;
+	color: #686868;
+	text-align: center;
+	
+}
+
+.form-group label {
+font-family: Ubuntu;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 30px;
+color: #686868;
+margin: 8px 0px;
+}
+
+.chartpoll-input{
+	 border: 0.5px solid #686868;
+	 box-sizing: border-box;
+	 border-radius: 8px;
+	 padding:  16px;
+	 width: 100%;
+	
+ }
+
+ 
+.login input:focus {
+	box-shadow: none;
+	border-color: #686868;
+}
+
+.login-form {
+	width: fit-content;
+}
+
+.login-form form .btn, .signup-form>.col>form > fieldset> button.cp-largebtn {
+	
+	font-family: Ubuntu;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 16px;
+	background: #09174B;
+	border-radius: 16px;
+	padding: 16px;
+	margin-top: 1.8rem;
+	text-align: center;
+width: 368px;
+border: none;
+	color: #FFFFFF;
+}
+
+.login-form a {
+	font-size: 14px;
+	line-height: 16px;
+	float: right;
+	text-decoration: none;
+}
+
+/* Sign Up Page */
+
+.signup-form {
+	padding: 0px;
+}
+
+.signup-form>.col {
+	padding-left: 82px;
+	padding-bottom: 90px;
+	width: fit-content;
+}
+
+.signup-form>.header {
+	padding-top: 80px;
+	padding-left: 90px;
+}
+.progress {
+	height: 8px;
+	border-radius: 0px;
+	background: #C4C4C4;
+}
+
+.progress-bar {
+background: #1E79A1;
+}
+
+.form-group {
+	padding: 0px;
+	padding-right: 12px;
+}
+.interest {
+	display: none;
+}
